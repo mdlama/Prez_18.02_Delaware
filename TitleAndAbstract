@@ -1,0 +1,21 @@
+Data-driven modeling in ecology: A case-study in research, education, and professional development
+
+The monarch butterfly, the "king of the butterflies", was recently added to the endangered species list
+in 2016.  Their numbers have dropped over 80% in the past decade, in large part to the synchronous drop
+in Asclepias syriaca, or common milkweed, which is the monarch's sole food source while in their larval state.
+In this talk, I will introduce an integral projection model that is used to explore the possible effects and
+sensitivity of herbivory on population growth of milkweed.  Integral projection models are fantastic examples of
+models that have strong connections with real-world data, utilizing ideas from calculus, linear algebra
+and statistics.  I will also discuss the importance of reproducibility in research, specifically as it pertains to
+data cleaning and modeling scripts, and how software development and dissemination is an underappreciated and highly
+important aspect of the scientific enterprise.
+
+
+"Are Monarch Butterflies the Panda Bears of Climate Change?" (article, Kingsolver)
+
+Reproducibility
+Scripting; R-Markdown
+Open Education Practices
+Open-Source Software development; static, published paper vs. dynamic, changing software
+Materials and Methods for computational models; Include "verbal" description (ODD)
+What level of detail with scripts?  Must be useable!!!  Making code available is not enough.
